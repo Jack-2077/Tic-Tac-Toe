@@ -1,7 +1,7 @@
 # React: Tic Tac Toe
 
 - Built following [this official ReactJs tutorial](https://reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment).
-- Project bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). Default README with details on project structure can be found [here](docs/react-guide.md).
+- Project bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). Default README with details on project structure can be found [here](my-app/README.md).
 
 ## Quick Start
 
@@ -11,9 +11,9 @@
 
 ## Bonus Features
 
-- [] Display the location for each move in the move history list.
+- [ ] Display the location for each move in the move history list.
 - [ ] Bold the currently selected item in the move list.
-- [] Rewrite Board to use two loops to make the squares instead of hardcoding them.
+- [ ] Rewrite Board to use two loops to make the squares instead of hardcoding them.
 - [ ] Add a toggle button that lets you sort the moves in either ascending or descending order.
 - [ ] When someone wins, highlight the three squares that caused the win.
-- [] When no one wins, display a message about the result being a draw.
+- [ ] When no one wins, display a message about the result being a draw.
