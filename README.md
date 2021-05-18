@@ -2,6 +2,7 @@
 
 - Built following [this official ReactJs tutorial](https://reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment).
 - Project bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). Default README with details on project structure can be found [here](my-app/README.md).
+- Play the [game here](https://jack-2077.github.io/Tic-Tac-Toe/).
 
 ## Quick Start
 
